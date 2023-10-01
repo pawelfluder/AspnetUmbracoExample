@@ -1,4 +1,0 @@
-[submodule "Umbraco-CMS"]
-	path = Umbraco-CMS
-	url = https://github.com/umbraco/Umbraco-CMS.git
-	branch = release/12.2
