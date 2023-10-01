@@ -1,0 +1,3 @@
+[submodule "Umbraco-CMS"]
+	path = Umbraco-CMS
+	url = https://github.com/umbraco/Umbraco-CMS.git
